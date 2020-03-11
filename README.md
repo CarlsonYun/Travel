@@ -1,4 +1,4 @@
-# camp-system
+# Travel
 
 > A Vue.js project
 
